@@ -14,6 +14,12 @@ var numba = function('string') {
 	if (string.length = 7)
 			return '7, what a perfect choice!'
 }
-console.log(numba(7))
-console.log(numba(seventy))
-console.log(numba(university))
+console.log(numba(7));
+console.log(numba(seventy));
+console.log(numba(university));
+
+
+function inception('display', 'favMovie') {
+	display(favMovie);
+}
+console.log(inception('The Godfather') + 'is a fantastic movie')
