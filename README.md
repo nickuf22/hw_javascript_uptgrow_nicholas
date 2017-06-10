@@ -1,9 +1,14 @@
-ex-basic
-========
+# Github Link
+- [nickuf22](https://github.com/nickuf22/hw_javascript_uptgrow_nicholas.git)
 
-This repository has just 5 basic commits on master by three different coders, providing a basic commit structure for learning exploring Git commands.
+# Resources
+- [W3Schools](https://www.w3schools.com/js/js_function_parameters.asp)
+		* I used this site to help with javascript concepts I was having trouble with.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/callee)
+		* I also used this site to help with javascript concepts I was having trouble with.
 
-## Usage
+# Deductions
+* I reviewed the list of deductions for this project and in the syllabus.
 
-* Using `git log` to review simple history
-* Filtering `git log` with `--author` option
+# Comments
+* I have no comments on the assignment at this time.
